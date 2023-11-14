@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css " type="text/css">
 
 </head>
-<body>
+<body id = "top">
     <header>
         <h1>Contact Page</h1>
         <hr>
@@ -23,6 +23,61 @@
             </li>
         </ul>
     </nav>
+    <main>
+        <form action="" method="post">
+            <fieldset>
+                <br>
+                <label for="firstAndLastName">First and last name</label>
+                <br>
+                <input type="text" name="firstAndLastName" id="firstAndLastName" required placeholder="Enter full name here">
+                <br>
+                <br>
+                <label for="email">Email</label>
+                <br>
+                <input type="email" name="email" id="email" required placeholder="Enter email here">
+                <br>
+                <br>
+                <label for="ageUnder18">I am under 18 years old</label>
+                <input type="radio" name="age" id="ageUnder18" required>
+                <label for="ageUnder18">I am over 18 years old</label>
+                <input type="radio" name="age" id="ageOver18" required>
+                <br>
+                <br>
+                <label for="whyAreYouContactingUs">Why are you contacting us?</label>
+                <br>
+                <select name="why" id="why" required>
+                    <option value="help">Help</option>
+                    <option value="collaboration">Collaboration</option>
+                    <option value="businessNeeds">Business Needs</option>
+                    <option value="other">Other</option>
+                </select>
+                <br>
+                <br>
+                <label for="comment">Comment</label>
+                <br>
+                <textarea name="comment" id="comment" cols="50" rows="10" maxlength="700" minlength="20" ></textarea>
+                <br>
+                <button>Send</button>
+            </fieldset>         
+        </form>
+    </main>
     <br>
+    <hr>
+    <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#top">Back to top</a>
+                </li>
+                <li>
+                    <a href="about.html" target="_blank">About</a>
+                </li>
+                <li>
+                    <a href="contact.html" target="_blank">Contact us</a>
+                </li>
+            </ul>
+        </nav>
+        <p><small>&#169;Dimsa 2023.All rights reserved</small></p>
+    </footer>
 </body>
 </html>
