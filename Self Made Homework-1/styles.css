@@ -56,7 +56,7 @@ footer p{
 }
 
 fieldset{
-    width: 400px;
+    width: 600px;
     background-color: white;
 }
 
@@ -70,4 +70,15 @@ h1{
 
 a{
     text-decoration: none;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+        
+}
+
+.rottie{
+    width: 55%;
 }
