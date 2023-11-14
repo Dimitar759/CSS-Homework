@@ -17,7 +17,7 @@ h1, nav, h3{
     text-align: center;
     background-color: #FF9209;
     color: #2B3499;
-    display: inline-block;
+    display: block;
 }
 
 p {
@@ -45,6 +45,10 @@ hr{
     width: 70%;
     background-color: #FFD099;
     font-size: large ;
+    text-align: center;
+}
+
+footer p{
     text-align: center;
 }
 
