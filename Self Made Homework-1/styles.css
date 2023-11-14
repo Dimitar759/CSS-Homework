@@ -1,0 +1,52 @@
+body{
+    background-color: #FF6C22;
+}
+
+img, video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+li{
+    list-style-type: none;
+}
+
+h1, nav, h3{
+    text-align: center;
+    background-color: #FF9209;
+    color: #2B3499;
+    display: inline-block;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #FFD099;
+}
+
+footer nav{
+    text-align: left;
+    background-color: #FF6C22;
+
+}
+
+hr{
+    border-color: brown;
+}
+
+.about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #FFD099;
+    font-size: large ;
+    text-align: center;
+}
+
+
+
