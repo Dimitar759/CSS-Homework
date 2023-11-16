@@ -29,22 +29,22 @@
 
 #center-bottom{
     border: 5px solid rgb(37, 36, 36);
-    padding: 99px 1px 1px 1px;
-    margin: -110px 1120px 10px 102px;
+    padding: 99px 1px 5px 1px;
+    margin: -113px 1120px 10px 102px;
     display: block;    
 }
 
 #right-bottom1{
     border: 5px solid rgb(37, 36, 36);
-    padding: 45px 1px 1px 1px;
-    margin: -120px 1100px 1px 350px;
+    padding: 47px 1px 0px 0px;
+    margin: -122px 1100px 0px 350px;
     display: block;
 }
 
 #right-bottom2 {
     border: 5px solid rgb(37, 36, 36);
-    padding: 45px 1px 0px 1px;
-    margin: -1px 1100px 1px 350px;
+    padding: 47px 1px 0px 0px;
+    margin: -1px 1100px 0px 350px;
     display: block;
     background-color: yellow;
 }
