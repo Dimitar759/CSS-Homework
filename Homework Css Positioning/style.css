@@ -1,4 +1,5 @@
 #top-left{
+    position: relative;
     border: 5px solid rgb(37, 36, 36);
     padding:60px 48px;
     margin: 10px 1800px 0px 0px;
@@ -6,6 +7,7 @@
 }
 
 #big-one{
+    position: relative;
     border: 5px solid rgb(37, 36, 36);
     padding: 124.5px 130px 135.5px ;
     margin: 0px 0px 0px 102px;
@@ -17,6 +19,7 @@
     border: 5px solid rgb(37, 36, 36);
     padding: 95px 20px 53px 0px;
     margin: -18px 1367px 0px 0px;
+    position: relative;
 }
 
 #bottom-left{
@@ -24,7 +27,7 @@
     padding: 80px 20px 20px 0px;
     margin: 0px 1367px 0px 0px;
     background-color: rgb(59, 183, 232);
-
+    position: relative;
 }
 
 #center-bottom{
@@ -32,16 +35,20 @@
     padding: 99px 1px 5px 1px;
     margin: -113px 1120px 10px 102px;
     display: block;    
+    position:relative;
 }
 
 #right-bottom1{
+    position: relative;
     border: 5px solid rgb(37, 36, 36);
     padding: 47px 1px 0px 0px;
     margin: -122px 1100px 0px 350px;
     display: block;
+    
 }
 
 #right-bottom2 {
+    position: relative;
     border: 5px solid rgb(37, 36, 36);
     padding: 47px 1px 0px 0px;
     margin: -1px 1100px 0px 350px;
