@@ -34,7 +34,6 @@
     border: 5px solid rgb(37, 36, 36);
     padding: 99px 1px 5px 1px;
     margin: -113px 1120px 10px 102px;
-    display: block;    
     position:relative;
 }
 
@@ -43,8 +42,6 @@
     border: 5px solid rgb(37, 36, 36);
     padding: 47px 1px 0px 0px;
     margin: -122px 1100px 0px 350px;
-    display: block;
-    
 }
 
 #right-bottom2 {
@@ -52,6 +49,5 @@
     border: 5px solid rgb(37, 36, 36);
     padding: 47px 1px 0px 0px;
     margin: -1px 1100px 0px 350px;
-    display: block;
     background-color: yellow;
 }
