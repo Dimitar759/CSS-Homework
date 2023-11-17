@@ -1,0 +1,172 @@
+#top-left{
+    border: 5px solid rgb(37, 36, 36);
+    border-left: white;
+    border-top:  white;
+    padding: 40px 100px 1px 10px;
+    margin: 10px 1800px 0px 0px;
+    background-color: rgb(231, 243, 247);  
+    box-shadow: -1px 0 5px rgba(0, 0, 0, 0.5);
+}
+
+#top-center{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-top: white;
+    padding: 41px 80px 0px 100px;
+    margin: -45.5px 1850px 0px 115px;
+    background-color:rgb(249, 243, 235)
+}
+
+#top-right{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-top: white;
+    padding: 31px 8px 10px 1px;
+    margin: -46px 1030px 1px 305px;
+    background-color: rgb(255, 203, 106);
+    
+}
+
+#long-right{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-top: white;
+    border-right: white;
+    padding: 319px 8px 10px 1px;
+    margin: -46.5px 1000px 10px 442px;
+    background-color: rgb(252, 252, 236);
+    box-shadow: 1px 0 5px rgba(0, 0, 0, 0.5);
+}
+
+#left-1{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-left: wheat;
+    padding: 25px 8px 80px 0px;
+    margin: -299px 1415px 0px 0px;
+    box-shadow: -1px 0 5px rgba(0, 0, 0, 0.5);
+}
+#left-2 {
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-left: wheat;
+    padding: 80px 8px 80px 0px;
+    margin: 0px 1415px 0px 0px;
+    box-shadow: 0px 0 5px rgba(0, 0, 0, 0.5);
+    background-color: rgb(211, 220, 223);
+}
+#left-bottom {
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-left: wheat;
+    border-bottom: white;
+    padding: 25px 8px 80px 0px;
+    margin: 0px 1415px 0px 0px; ;
+    background-color: rgb(255, 202, 102);
+    
+}
+
+#big-red {
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 201px 0px 10px 1px;
+    margin: -393px 1167px 1px 57px; 
+    background-color: rgb(242, 48, 48);
+}
+
+#mid-right{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 100px 8px 10px 1px;
+    margin: -222px 1030px 1px 305px;
+    background-color: rgb(255, 210, 127);
+    
+}
+
+#bellow-midright1{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 82px 8px 10px 1px;
+    margin: -1px 1095px 1px 305px;
+    
+}
+#bellow-midright2 {
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 82px 57px 10px 1px;
+    margin: -103px 1095px 1px 375px;
+    
+}
+#brown{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 34px 8px 80px 0px;
+    margin: -1px 1290px 0px 57px;
+    background-color: rgb(48, 23, 23);
+}
+#grey{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 1px 8px 55px 0px;
+    margin: -123.5px 1167px 0px 182px;
+    background-color: rgb(208, 220, 224);
+
+}
+
+#below-grey{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 0px 8px 48px 0px;
+    margin: 0px 1167px 0px 182px;
+    background-color: rgb(237, 239, 239);
+}
+
+#below-brown{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    border-bottom: white;
+    padding: 0px 8px 45px 0px;
+    margin: 0px 1289px 0px 57px;
+    background-color: rgb(237, 239, 239);
+}
+
+#grey2{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 1px 0px 57px 0px;
+    margin: -173px 1030px 0px 305px;
+    background-color: rgb(237, 239, 239);
+}
+
+#brown2{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 0px 8px 23px 0px;
+    margin: 56px 1167px 0px 182px;
+    background-color: rgb(37, 18, 18);
+}
+#blue{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 1px 0px 78px 0px;
+    margin: -89px 1030px 0px 305px;
+    background-color: rgb(50, 50, 119);
+}
+#below-blue{
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 1px 0px 11px 0px;
+    margin: 1px 1030px 0px 183px;
+    border-bottom: rgb(237, 239, 239);;
+    background-color: rgb(237, 239, 239);
+}
+
+#long-right2 {
+    display: block;
+    border: 5px solid rgb(37, 36, 36);
+    padding: 10px 10px 86px 10px;
+    margin: -106px 1000px 0px 442px;
+    background-color: rgb(242, 48, 48);
+    border-right-color: rgb(242, 48, 48);
+    border-bottom-color: rgb(242, 48, 48);
+}
