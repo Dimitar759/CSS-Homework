@@ -1,53 +1,64 @@
-#top-left{
-    position: relative;
-    border: 5px solid rgb(37, 36, 36);
-    padding:60px 48px;
-    margin: 10px 1800px 0px 0px;
+#main-div{
+    height: 400px;
+    width: 409px;
+}
+
+#top-row {
+    height: 290px;
+}
+
+#big-red {
+    border: 5px solid black;
+    width: 290px;
+    height: 289.5px;
+    background-color: red;
     
 }
 
-#big-one{
-    position: relative;
-    border: 5px solid rgb(37, 36, 36);
-    padding: 124.5px 130px 135.5px ;
-    margin: 0px 0px 0px 102px;
-    display: inline;
-    background-color: rgb(237, 50, 50);
+.right{
+    float: right;
 }
 
-#center-left{
-    border: 5px solid rgb(37, 36, 36);
-    padding: 95px 20px 53px 0px;
-    margin: -18px 1367px 0px 0px;
-    position: relative;
+#left1{
+    border: 5px solid black;
+    width: 100px;
+    height: 120px;
 }
 
-#bottom-left{
-    border: 5px solid rgb(37, 36, 36);
-    padding: 80px 20px 20px 0px;
-    margin: 0px 1367px 0px 0px;
-    background-color: rgb(59, 183, 232);
-    position: relative;
+#left2{
+    border: 5px solid black;
+    width: 100px;
+    height: 160px;
 }
 
-#center-bottom{
-    border: 5px solid rgb(37, 36, 36);
-    padding: 99px 1px 5px 1px;
-    margin: -113px 1120px 10px 102px;
-    position:relative;
+#bottom-right-column {
+    height: 100px;
+    width: 24px;
 }
 
-#right-bottom1{
-    position: relative;
-    border: 5px solid rgb(37, 36, 36);
-    padding: 47px 1px 0px 0px;
-    margin: -122px 1100px 0px 350px;
+
+#white-box-right {
+    border: 5px solid black;
+    width: 15px;
+    height: 45px;
 }
 
-#right-bottom2 {
-    position: relative;
-    border: 5px solid rgb(37, 36, 36);
-    padding: 47px 1px 0px 0px;
-    margin: -1px 1100px 0px 350px;
+#yellow-box {
+    border: 5px solid black;
+    width: 15px;
+    height: 45px;
     background-color: yellow;
+}
+
+#bottom-middle-box {
+    border: 5px solid black;
+    height: 100px;
+    width: 266px;
+}
+
+#bottom-left-box {
+    border: 5px solid black;
+    width: 99.5px;
+    height: 100px;
+    background-color: blue;
 }
