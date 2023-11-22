@@ -1,0 +1,70 @@
+#main-div{
+    position: relative;
+    height: 400px;
+    width: 409px;
+}
+
+#big-red {
+    border: 5px solid black;
+    width: 290px;
+    height: 289.5px;
+    background-color: red;
+    position:absolute;
+    right: 0px;
+
+}
+
+#left1 {
+    border: 5px solid black;
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    left: 0px;
+}
+
+#left2 {
+    border: 5px solid black;
+    width: 100px;
+    height: 289.5px;
+    position: absolute;
+    left: 0px;
+}
+
+#white-box-right {
+    border: 5px solid black;
+    width: 15px;
+    height: 45px;
+    position: absolute;
+    right: 0px;
+    bottom: 46px;
+}
+
+#yellow-box {
+    border: 5px solid black;
+    width: 15px;
+    height: 45px;
+    background-color: yellow;
+    position: absolute;
+    right: 0px;
+    bottom: -9px;
+}
+
+#bottom-middle-box {
+    border: 5px solid black;
+    height: 100px;
+    width: 267px;
+    position: absolute;
+    bottom: -9px;;
+    right: 24px;
+
+}
+
+#bottom-left-box {
+    border: 5px solid black;
+    width: 99.5px;
+    height: 100px;
+    position: absolute;
+    background-color: blue;
+    bottom: -9px;
+    left: 0px;
+}
