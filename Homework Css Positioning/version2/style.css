@@ -25,9 +25,10 @@
 #left2 {
     border: 5px solid black;
     width: 100px;
-    height: 289.5px;
+    height: 159px;
     position: absolute;
     left: 0px;
+    bottom: 102px;
 }
 
 #white-box-right {
@@ -62,7 +63,7 @@
 #bottom-left-box {
     border: 5px solid black;
     width: 99.5px;
-    height: 100px;
+    height: 102px;
     position: absolute;
     background-color: blue;
     bottom: -9px;
